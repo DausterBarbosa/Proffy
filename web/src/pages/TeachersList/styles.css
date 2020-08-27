@@ -1,0 +1,9 @@
+#page-teacher-list{
+    width: 100vw;
+    height: 100vh;
+}
+
+#page-teacher-list main{
+    margin: 3.2rem auto;
+    width: 90%;
+}
