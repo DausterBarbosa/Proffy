@@ -34,7 +34,7 @@ $ git clone https://github.com/DausterBarbosa/proffy.git
 $ cd proffy/server
 
 # Instale as dependências
-$ yarn install
+$ yarn
 
 # inicie a aplicação
 $ yarn start
@@ -45,7 +45,7 @@ $ yarn start
 $ cd proffy/web
 
 # Instale as dependências
-$ yarn install
+$ yarn
 
 # inicie a aplicação
 $ yarn start
@@ -54,6 +54,9 @@ $ yarn start
 ```
 # Vá para a pasta da aplicação mobile
 $ cd proffy/mobile
+
+# Instale as dependências
+$ yarn
 
 # Instale o app no dispositivo ou emulador
 $ npx react-native run-android
