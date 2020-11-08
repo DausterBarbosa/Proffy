@@ -9,6 +9,11 @@ Proffy é uma plataforam que visa a conexão entre professores e alunos, os prof
 e os alunos poderão procurar por professores de acordo com sua matéria de interesse, dia e horário.
 </p>
 
+# Demonstrações
+<img src="https://github.com/DausterBarbosa/Proffy/blob/master/.github/proffymobile.gif?raw=true" height="500"/>
+<img src="https://github.com/DausterBarbosa/Proffy/blob/master/.github/shearchproffy.gif?raw=true"/>
+<img src="https://github.com/DausterBarbosa/Proffy/blob/master/.github/proffyweb.gif?raw=true"/>
+
 # Tecnologias
 <p>
 Essas foram as pincipais tecnologias usadas no desenvolvimento do Proffy.
