@@ -6,13 +6,24 @@
 # Sobre
 <p>
 Proffy é uma plataforam que visa a conexão entre professores e alunos, os professores poderão adicionar suas aulas, preços, horários etc,
-e os alunos poderão procurar por professores de acordo com sua matéria de interesse, dia e horário.
+e os alunos poderão procurar por professores de acordo com sua matéria de interesse, dia e horário e entrar em contato.
 </p>
 
 # Demonstrações
+<div>
+<p>Na aplicação mobile pode-se adicionar e remover Proffys dos favoritos, salvando-os no storage no aparelho.</p>
 <img src="https://github.com/DausterBarbosa/Proffy/blob/master/.github/proffymobile.gif?raw=true" height="500"/>
+</div>
+
+<div>
+<p>Página de busca de Proffys.</p>
 <img src="https://github.com/DausterBarbosa/Proffy/blob/master/.github/shearchproffy.gif?raw=true"/>
+</div>
+
+<div>
+<p>Página de cadastro de Proffys.</p>
 <img src="https://github.com/DausterBarbosa/Proffy/blob/master/.github/proffyweb.gif?raw=true"/>
+</div>
 
 # Tecnologias
 <p>
